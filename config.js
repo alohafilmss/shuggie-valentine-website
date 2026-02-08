@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest man in the world! 🎉💝💓",
-        message: "Now come get a big warm hug and a huge kisses!",
+        title: "I'm the luckiest man in the world! 🎉💝💓",
+        message: "Now come get a big warm hug and a kisses!",
         emojis: "🧸✨🤗💝💋🖤💕"  // These will bounce around
     },
 
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dmhgn7kp8/video/upload/v1770543915/Lomez_Brown_Finn_Gruva_Fiji_-_Cruise_Remix_yfwsoe.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
